@@ -1,3 +1,4 @@
+package com.gl.prework;
 import java.util.Scanner;
 
 public class ScanInput {

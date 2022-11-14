@@ -1,6 +1,11 @@
+package com.gl.prework;
 import java.util.Scanner;
 
 public class CodeChallenfeTernaryOP {
+	/**
+	 * 
+	 * Documet for codeing challenge
+	 */
 
 	public static void main(String[] args) {
 		int num=0;
