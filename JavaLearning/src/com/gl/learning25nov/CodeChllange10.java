@@ -11,9 +11,8 @@ class InheritanceA{
 class InheritanceB extends InheritanceA{
 	int l=12,b=14;
 	void areaOfRectangle() {
-		System.out.println("area of rectangle"+(l*b));
-	}l̥
-
+		System.out.println("area of rectangle"+l*b);
+	}
 }
 class  InheritanceC extends InheritanceB {
 	int l=10,h=15;
