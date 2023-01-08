@@ -1,4 +1,4 @@
-package com.gl.DataStructWeek4;
+package com.gl.DataStructWeek5;
 
 public class MergeSortDemo {
 
